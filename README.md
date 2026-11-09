@@ -1,6 +1,9 @@
 Matt's BLE Tracker
 Matt's BLE Tracker
 
+<img width="4032" height="511" alt="image" src="https://github.com/user-attachments/assets/1b933224-625f-4791-9b9d-7d782d018d1c" />
+
+
 Matt's BLE Tracker is a portable ESP32-S3 based Bluetooth Low Energy scanning, identification, and proximity tracking platform.
 
 The project is currently built around the LILYGO T-Display-S3 Touch, a custom carrier PCB, external indicator LEDs, LiPo battery, and a custom 3D-printed enclosure.
