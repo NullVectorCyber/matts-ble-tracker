@@ -6,7 +6,7 @@
 
 Matt's BLE Tracker is a portable ESP32-S3 Bluetooth Low Energy scanning and tracking device with a touchscreen interface, device discovery, tracking functionality, status indicators, and onboard logging capabilities.
 
-The project is designed as a compact field tool for Bluetooth and wireless research, testing, and development.
+The project is designed as a compact field tool for Bluetooth and wireless research, testing, and development. I used an electronic badge that had LED's on it. You can do this project with just an ESP32S3 and a battery.
 
 ## Features
 
